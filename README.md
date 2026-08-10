@@ -3,16 +3,17 @@
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Nithish%20C&fontSize=42&fontColor=fff" width="100%"/>
 
-<!-- Profile + Typing Animation -->
-<table border="0" cellspacing="0" cellpadding="10">
+<br>
+
+<!-- Profile Section -->
+<table>
 <tr>
 
 <!-- Profile Photo -->
-<td width="180" align="center">
+<td width="150" align="center">
 
-<img src="https://wsrv.nl/?url=github.com/user-attachments/assets/7e549cfb-22d1-403a-9268-65b2ed6f8a50&w=160&h=160&fit=cover&mask=circle"
-     width="200"
-     height="200"
+<img src="https://wsrv.nl/?url=github.com/user-attachments/assets/7e549cfb-22d1-403a-9268-65b2ed6f8a50&w=120&h=120&fit=cover&mask=circle" 
+     width="120"
      alt="Nithish C"/>
 
 </td>
@@ -20,14 +21,7 @@
 <!-- Typing Animation -->
 <td align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&vCenter=true&width=700&lines=Hi+there%2C+I'm+Nithish+C+%F0%9F%91%8B;
-Python+%7C+Django+%7C+Web+Developer;
-Information+Science+%26+Engineering+Student;
-Building+Scalable+Web+Applications;
-Developing+RESTful+APIs+%26+Backend+Systems;
-Passionate+About+Software+Development;
-Turning+Ideas+Into+Real-World+Solutions;
-Learning+%7C+Building+%7C+Improving+Every+Day+%F0%9F%9A%80"
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&vCenter=true&width=700&lines=Hi+there%2C+I'm+Nithish+C+%F0%9F%91%8B;Python+%7C+Django+%7C+Web+Developer;Building+Scalable+Web+Applications;Automating+Real-World+Problems"
      alt="Typing SVG"/>
 
 <br>
