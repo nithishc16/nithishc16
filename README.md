@@ -21,15 +21,8 @@
 <!-- Typing Animation -->
 <td align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&vCenter=true&width=700&lines=Hi+there%2C+I'm+Nithish+C+%F0%9F%91%8B;
-Python+%7C+Django+%7C+Web+Developer;
-Information+Science+%26+Engineering+Student;
-Building+Scalable+Web+Applications;
-Developing+RESTful+APIs+%26+Backend+Systems;
-Passionate+About+Software+Development;
-Turning+Ideas+Into+Real-World+Solutions;
-Learning+%7C+Building+%7C+Improving+Every+Day+%F0%9F%9A%80"
-     alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=false&vCenter=true&width=700&lines=Hi+there%2C+I'm+Nithish+C+%F0%9F%91%8B;Python+%7C+Django+%7C+Web+Developer;Information+Science+%26+Engineering+Student;Building+Scalable+Web+Applications;Developing+RESTful+APIs+%26+Backend+Systems;Turning+Ideas+Into+Real-World+Solutions+%F0%9F%9A%80"
+alt="Typing SVG" />
 
 <br>
 
