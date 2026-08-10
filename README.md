@@ -3,7 +3,7 @@
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Nithish%20C&fontSize=42&fontColor=fff" width="100%"/>
 
-<br><br>
+<br>
 
 <!-- Profile + Typing Animation -->
 <table border="0" cellspacing="0" cellpadding="10">
