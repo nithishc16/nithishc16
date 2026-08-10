@@ -49,12 +49,13 @@ alt="Typing SVG" />
 
 <img align="right" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 🎓 Studying **BE in Information Technology** at Global Academy of Technology, Bengaluru
-- 🌐 Focused on **Python, Django & Web Development**
-- 🧰 Also familiar with **Java, Spring Boot, Flutter & MySQL**
-- 📚 Currently learning: **Advanced Django, REST APIs, System Design**
-- ⚡ Fun fact: I love turning real-world problems into automated systems!
-- 💡 Motto: *Build it clean. Build it scalable. Ship it.*
+- 🎓 **Information Science and Engineering Graduate** from Global Academy of Technology, Bengaluru
+- 💻 **Web Developer** passionate about Python, Django, REST APIs & backend development
+- ☕ Skilled in **Java, Spring Boot, Django REST Framework & MySQL**
+- 🛠️ Familiar with **JavaScript, HTML/CSS, Bootstrap, Flutter, Git & Docker**
+- 🚀 Building **scalable and real-world software solutions**
+- ⚡ Passionate about turning problems into **clean, efficient & automated systems**
+- 💡 **Motto:** *Build it clean. Build it scalable. Ship it.*
 
 ---
 
