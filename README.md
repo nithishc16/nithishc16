@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Nithish+C+%F0%9F%91%8B;Python+%7C+Django+%7C+Web+Developer;Building+Scalable+Web+Applications;Automating+Real-World+Problems" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nithish%20C&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20%26%20Django%20Developer%20%7C%20Web%20Development%20%7C%20Building%20scalable%20web%20apps&descAlignY=62&descSize=16" width="100%"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Nithish+C+%F0%9F%91%8B;Python+%7C+Django+%7C+Web+Developer;Building+Scalable+Web+Applications;Automating+Real-World+Problems" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=nithishc16&style=flat-square&color=70a5fd" alt="Profile Views"/>
 
@@ -11,29 +12,14 @@
 
 ### 💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class Nithish:
-    def __init__(self):
-        self.name = "Nithish C"
-        self.location = "Bengaluru, India"
-        self.degree = "BE in Information Technology"
-
-        self.stack = {
-            "web_dev": ["Python", "Django", "JavaScript", "HTML", "CSS", "Bootstrap"],
-            "also_know": ["Java", "Spring Boot", "Flutter", "MySQL"]
-        }
-
-        self.currently_learning = [
-            "Advanced Django", "REST APIs", "System Design"
-        ]
-
-        self.fun_fact = "I love turning real-world problems into automated systems!"
-
-    def motto(self):
-        return "Build it clean. Build it scalable. Ship it."
-```
+- 🎓 Studying **BE in Information Technology** at Global Academy of Technology, Bengaluru
+- 🌐 Focused on **Python, Django & Web Development**
+- 🧰 Also familiar with **Java, Spring Boot, Flutter & MySQL**
+- 📚 Currently learning: **Advanced Django, REST APIs, System Design**
+- ⚡ Fun fact: I love turning real-world problems into automated systems!
+- 💡 Motto: *Build it clean. Build it scalable. Ship it.*
 
 ---
 
