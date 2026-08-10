@@ -174,9 +174,12 @@ alt="Typing SVG" />
 ### 📚 Currently Learning
 
 ```text
-🧱 Backend        → Advanced Spring Boot, Spring Security
-🏗️  System Design → Scalability, Microservices
-⚙️  DevOps        → CI/CD, Docker, Cloud Deployment
+🌐 Full Stack Development → Building complete end-to-end web applications
+⚙️ Backend & APIs         → Django, Spring Boot, REST APIs & Security
+🎨 Frontend Development   → JavaScript, Responsive UI & Modern Web Design
+🤖 AI Development         → AI-powered applications & automation
+🏗️ System Design          → Scalable & production-ready architectures
+☁️ DevOps & Deployment    → Docker, CI/CD & Cloud
 ```
 
 ---
