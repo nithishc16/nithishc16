@@ -38,15 +38,9 @@ alt="Typing SVG" />
 
 </tr>
 </table>
-
-<br>
-
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=nithishc16&style=flat-square&color=70a5fd"
      alt="Profile Views"/>
-
-<br><br>
-
 <hr>
 
 </div>
