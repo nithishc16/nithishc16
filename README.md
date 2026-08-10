@@ -8,35 +8,42 @@
 <!-- Profile Section -->
 <table>
 <tr>
-<td width="130" align="center">
 
-<img src="https://wsrv.nl/?url=github.com/user-attachments/assets/7e549cfb-22d1-403a-9268-65b2ed6f8a50&w=120&h=120&fit=cover&mask=circle" width="120" alt="Nithish C"/>
+<!-- Profile Photo -->
+<td width="150" align="center">
+
+<img src="https://wsrv.nl/?url=github.com/user-attachments/assets/7e549cfb-22d1-403a-9268-65b2ed6f8a50&w=120&h=120&fit=cover&mask=circle" 
+     width="120"
+     alt="Nithish C"/>
 
 </td>
 
+<!-- Typing Animation -->
 <td align="left">
 
-<h2>Hi there, I'm Nithish C 👋</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&vCenter=true&width=700&lines=Hi+there%2C+I'm+Nithish+C+%F0%9F%91%8B;Python+%7C+Django+%7C+Web+Developer;Building+Scalable+Web+Applications;Automating+Real-World+Problems"
+     alt="Typing SVG"/>
+
+<br>
 
 <p>
-<b>Python</b> &nbsp;•&nbsp;
-<b>Django</b> &nbsp;•&nbsp;
-<b>Web Developer</b>
-</p>
-
-<p>
-🚀 Building Scalable Web Applications<br>
-⚙️ Automating Real-World Problems
+💻 <b>Python</b>
+&nbsp; | &nbsp;
+🌐 <b>Django</b>
+&nbsp; | &nbsp;
+🚀 <b>Web Developer</b>
 </p>
 
 </td>
+
 </tr>
 </table>
 
 <br>
 
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=nithishc16&style=flat-square&color=70a5fd" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=nithishc16&style=flat-square&color=70a5fd"
+     alt="Profile Views"/>
 
 <br><br>
 
