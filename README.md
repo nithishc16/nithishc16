@@ -2,7 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Nithish+C+%F0%9F%91%8B;Python+%7C+Django+%7C+Web+Developer;Building+Scalable+Web+Applications;Automating+Real-World+Problems" alt="Typing SVG" />
 
-<img src="
 
 <img src="https://komarev.com/ghpvc/?username=nithishc16&style=flat-square&color=70a5fd" alt="Profile Views"/>
 
