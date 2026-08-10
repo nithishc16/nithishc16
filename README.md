@@ -137,7 +137,7 @@ alt="Typing SVG" />
      alt="Nithish's GitHub Activity Graph"/>
 
 </div>
----
+
 
 
 ### 💼 Work & Training Experience
