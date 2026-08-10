@@ -9,7 +9,7 @@
 <!-- Profile Photo -->
 <td width="210" align="center">
 
-<img src="https://wsrv.nl/?url=github.com/user-attachments/assets/7e549cfb-22d1-403a-9268-65b2ed6f8a50&w=220&h=220&fit=cover&mask=circle&position=top"
+<img src="https://wsrv.nl/?url=github.com/user-attachments/assets/7e549cfb-22d1-403a-9268-65b2ed6f8a50&w=220&h=220&fit=contain&mask=circle"
      width="190"
      height="190"
      alt="Nithish C"/>
