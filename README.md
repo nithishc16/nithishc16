@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nithish%20C&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20Building%20scalable%20web%20apps&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nithish%20C&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20%26%20Django%20Developer%20%7C%20Web%20Development%20%7C%20Building%20scalable%20web%20apps&descAlignY=62&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Nithish+C+%F0%9F%91%8B;Java+%7C+Spring+Boot+%7C+Full+Stack+Developer;Building+Scalable+%26+Real-Time+Systems;Turning+Real-World+Problems+Into+Automated+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Nithish+C+%F0%9F%91%8B;Python+%7C+Django+%7C+Web+Developer;Building+Scalable+Web+Applications;Turning+Real-World+Problems+Into+Automated+Systems" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=nithishc16&style=flat-square&color=70a5fd" alt="Profile Views"/>
 
@@ -14,29 +14,26 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```java
-public class Nithish {
+```python
+class Nithish:
+    def __init__(self):
+        self.name = "Nithish C"
+        self.location = "Bengaluru, India"
+        self.degree = "BE in Information Technology"
 
-    private String name = "Nithish C";
-    private String location = "Bengaluru, India";
-    private String degree = "BE in Information Technology";
+        self.stack = {
+            "web_dev": ["Python", "Django", "JavaScript", "HTML", "CSS", "Bootstrap"],
+            "also_know": ["Java", "Spring Boot", "Flutter", "MySQL"]
+        }
 
-    private String[] stack = {
-        "Java", "Spring Boot", "Python",
-        "JavaScript", "Flutter", "MySQL"
-    };
+        self.currently_learning = [
+            "Advanced Django", "REST APIs", "System Design"
+        ]
 
-    private String[] currentlyLearning = {
-        "Advanced Spring Boot", "System Design", "DevOps"
-    };
+        self.fun_fact = "I love turning real-world problems into automated systems!"
 
-    private String funFact =
-        "I love turning real-world problems into automated systems!";
-
-    public String motto() {
-        return "Build it clean. Build it scalable. Ship it.";
-    }
-}
+    def motto(self):
+        return "Build it clean. Build it scalable. Ship it."
 ```
 
 ---
@@ -45,21 +42,21 @@ public class Nithish {
 
 **Languages**
 <p align="left">
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java%20(Basics)-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 </p>
 
-**Frameworks**
+**Web Development / Frameworks**
 <p align="left">
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 </p>
 
 **Cloud & DevOps**
@@ -135,8 +132,8 @@ public class Nithish {
 
 | Project | Stack | Highlights |
 |---|---|---|
+| **[Containerized Chronicles](https://github.com/nithishc16)** — Authenticated Blog App | `Python` `Django (MVT)` `CMS` | Scalable, authenticated blogging platform with personalized content recommendations, automated content categorization, Text-to-Speech accessibility, and granular role-based access control |
 | **[ThermoSense](https://github.com/nithishc16)** — Thermal Crowd Detection & Smart Temperature Control | `Java 18` `Spring Boot 3.2.2` `Spring Data JPA` | Real-time people-counting at **98% accuracy** with no facial recognition; modular sensor architecture with RESTful APIs for live crowd density insights |
-| **[Containerized Chronicles](https://github.com/nithishc16)** — Authenticated Blog App | `Django (MVT)` `Python` `CMS` | Scalable blogging platform with personalized content recommendations, Text-to-Speech accessibility, and role-based access control |
 
 </div>
 
