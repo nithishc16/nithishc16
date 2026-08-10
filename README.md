@@ -162,13 +162,10 @@ alt="Typing SVG" />
 
 ### 🎓 Education
 
-<div align="center">
-
-| Degree | Institution | Year | 
-|---|---|---|
-| BE in Information Technology | Global Academy of Technology, Bengaluru | May 2026 |
-| Diploma in Computer Science & Engineering | Dayananda Sagar Institute of Technology (DSIT), Bengaluru | June 2023 |
-
+| Degree | Institution | Year |
+|:---|:---|:---:|
+| **BE – Information Science & Engineering** | Global Academy of Technology, Bengaluru | **May 2026** |
+| **Diploma – Computer Science & Engineering** | Dayananda Sagar Institute of Technology (DSIT), Bengaluru | **June 2023** |
 </div>
 
 ### 📚 Currently Learning
