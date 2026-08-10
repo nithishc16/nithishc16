@@ -123,19 +123,6 @@ alt="Typing SVG" />
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nithishc16&show_icons=true&theme=tokyonight&hide_border=true" 
-       height="180"
-       alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=nithishc16&theme=tokyonight&hide_border=true"
-       height="180"
-       alt="GitHub Streak"/>
-</p>
-
----
 
 ### 💼 Work & Training Experience
 
