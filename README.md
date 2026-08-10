@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Nithish%20C&fontSize=42&fontColor=fff" width="100%"/> 
 <table>
 <tr>
-<td width="120">
+<td width="150">
 <img src="https://wsrv.nl/?url=github.com/user-attachments/assets/7e549cfb-22d1-403a-9268-65b2ed6f8a50&w=100&h=100&fit=cover&mask=circle" width="100" alt="Nithish C"/>
 </td>
 <td>
