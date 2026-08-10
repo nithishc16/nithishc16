@@ -1,10 +1,10 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Nithish%20C&fontSize=42&fontColor=fff" width="100%"/> 
-<table>
+<table border="0">
 <tr>
 <td width="150">
-<img src="https://wsrv.nl/?url=github.com/user-attachments/assets/7e549cfb-22d1-403a-9268-65b2ed6f8a50&w=100&h=100&fit=cover&mask=circle" width="100" alt="Nithish C"/>
+<img src="https://wsrv.nl/?url=github.com/user-attachments/assets/7e549cfb-22d1-403a-9268-65b2ed6f8a50&w=100&h=100&fit=cover&mask=circle" width="150" alt="Nithish C"/>
 </td>
 <td>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Nithish+C+%F0%9F%91%8B;Python+%7C+Django+%7C+Web+Developer;Building+Scalable+Web+Applications;Automating+Real-World+Problems" alt="Typing SVG" />
