@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Nithish%20C&fontSize=42&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDAE,100:70A5FD&height=170&section=header&text=Nithish%20C&fontSize=52&fontColor=ffffff&fontAlignY=42&animation=fadeIn"
+     width="100%"
+     alt="Nithish C"/>
 <!-- Profile Section -->
 <table>
 <tr>
