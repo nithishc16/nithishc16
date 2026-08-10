@@ -10,8 +10,8 @@
 <td width="150" align="center">
 
 <img src="https://wsrv.nl/?url=github.com/user-attachments/assets/7e549cfb-22d1-403a-9268-65b2ed6f8a50&w=120&h=120&fit=cover&mask=circle" 
-     width="200"
-     height="200"
+     width="100"
+     height="100"
      alt="Nithish C"/>
 
 </td>
