@@ -2,9 +2,6 @@
 
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Nithish%20C&fontSize=42&fontColor=fff" width="100%"/>
-
-<br>
-
 <!-- Profile Section -->
 <table>
 <tr>
