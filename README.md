@@ -3,17 +3,18 @@
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Nithish%20C&fontSize=42&fontColor=fff" width="100%"/>
 
-<br>
+<br><br>
 
-<!-- Profile Section -->
-<table>
+<!-- Profile + Typing Animation -->
+<table border="0" cellspacing="0" cellpadding="10">
 <tr>
 
 <!-- Profile Photo -->
-<td width="150" align="center">
+<td width="180" align="center">
 
-<img src="https://wsrv.nl/?url=github.com/user-attachments/assets/7e549cfb-22d1-403a-9268-65b2ed6f8a50&w=120&h=120&fit=cover&mask=circle" 
-     width="120"
+<img src="https://wsrv.nl/?url=github.com/user-attachments/assets/7e549cfb-22d1-403a-9268-65b2ed6f8a50&w=160&h=160&fit=cover&mask=circle"
+     width="160"
+     height="160"
      alt="Nithish C"/>
 
 </td>
