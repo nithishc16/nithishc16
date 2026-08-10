@@ -125,9 +125,9 @@ alt="Typing SVG" />
 
 ### 🏆 Trophy Wall
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nithishc16&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nithishc16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
 ---
 
