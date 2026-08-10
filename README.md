@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nithish%20C&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20%26%20Django%20Developer%20%7C%20Web%20Development%20%7C%20Building%20scalable%20web%20apps&descAlignY=62&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Nithish+C+%F0%9F%91%8B;Python+%7C+Django+%7C+Web+Developer;Building+Scalable+Web+Applications;Automating+Real-World+Problems" alt="Typing SVG" />
-
+<img src="c:\Users\nithi\Desktop\nithi photo.jpeg" width="150" style="border-radius:50%;" alt="Nithish C"/>
 <img src="https://komarev.com/ghpvc/?username=nithishc16&style=flat-square&color=70a5fd" alt="Profile Views"/>
 
 </div>
