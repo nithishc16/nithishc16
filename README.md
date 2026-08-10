@@ -138,7 +138,7 @@ alt="Typing SVG" />
 
 </div>
 
-
+---
 
 ### 💼 Work & Training Experience
 
