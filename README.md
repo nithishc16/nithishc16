@@ -1,14 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Nithish%20C&fontSize=42&fontColor=fff" width="100%"/> 
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Nithish%20C&fontSize=42&fontColor=fff" width="100%"/>
 
-<img src="https://wsrv.nl/?url=github.com/user-attachments/assets/7e549cfb-22d1-403a-9268-65b2ed6f8a50&w=100&h=100&fit=cover&mask=circle" width="100" align="left" alt="Nithish C"/>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Nithish+C+%F0%9F%91%8B;Python+%7C+Django+%7C+Web+Developer;Building+Scalable+Web+Applications;Automating+Real-World+Problems" alt="Typing SVG" />
+<!-- Profile Section -->
+<table>
+<tr>
+<td width="130" align="center">
 
-<br clear="left"/>
+<img src="https://wsrv.nl/?url=github.com/user-attachments/assets/7e549cfb-22d1-403a-9268-65b2ed6f8a50&w=120&h=120&fit=cover&mask=circle" width="120" alt="Nithish C"/>
 
+</td>
+
+<td align="left">
+
+<h2>Hi there, I'm Nithish C 👋</h2>
+
+<p>
+<b>Python</b> &nbsp;•&nbsp;
+<b>Django</b> &nbsp;•&nbsp;
+<b>Web Developer</b>
+</p>
+
+<p>
+🚀 Building Scalable Web Applications<br>
+⚙️ Automating Real-World Problems
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=nithishc16&style=flat-square&color=70a5fd" alt="Profile Views"/>
+
+<br><br>
+
+<hr>
 
 </div>
 
