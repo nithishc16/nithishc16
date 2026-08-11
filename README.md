@@ -124,12 +124,11 @@ alt="Typing SVG" />
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nithishc16&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"
+<img src="https://streak-stats.demolab.com/?user=nithishc16&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"
      width="70%"
      alt="Nithish's GitHub Streak"/>
 
 </div>
-
 <br>
 
 <div align="center">
